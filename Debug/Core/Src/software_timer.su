@@ -1,0 +1,6 @@
+software_timer.c:20:6:setTimer_trfLight0	16	static
+software_timer.c:25:6:setTimer_trfLight1	16	static
+software_timer.c:30:6:setTimer_changing_LED_on	16	static
+software_timer.c:35:6:setTimerBlinking	16	static
+software_timer.c:40:6:timerRun	4	static
+software_timer.c:70:6:auto_setTimer_trfLight	16	static

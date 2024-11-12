@@ -1,0 +1,12 @@
+output_display.c:11:6:display7SEG	16	static
+output_display.c:71:6:autorun_update_buffer7SEG	4	static
+output_display.c:78:6:update7SEG	16	static
+output_display.c:101:6:changing_LED_on	16	static
+output_display.c:133:6:blinking_trafficLight	16	static
+output_display.c:164:6:onlyOn_RED0	8	static
+output_display.c:170:6:onlyOn_YELLOW0	8	static
+output_display.c:176:6:onlyOn_GREEN0	8	static
+output_display.c:182:6:onlyOn_RED1	8	static
+output_display.c:188:6:onlyOn_YELLOW1	8	static
+output_display.c:194:6:onlyOn_GREEN1	8	static
+output_display.c:200:6:clear_trafficLight	8	static

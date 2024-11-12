@@ -1,0 +1,4 @@
+input_processing.c:10:6:update_modifyDuration_and_buffer	8	static
+input_processing.c:37:6:fsm_manual_traffic_light	8	static
+input_processing.c:120:6:fsm_autorun_traffic_light0	8	static
+input_processing.c:163:6:fsm_autorun_traffic_light1	8	static

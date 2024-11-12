@@ -1,0 +1,9 @@
+fsm_automatic.c:31:6:update7SEG	16	static
+fsm_automatic.c:53:6:updatebuffer	16	static
+fsm_automatic.c:62:6:initial	8	static
+fsm_automatic.c:73:7:traffic	8	static
+fsm_automatic.c:166:7:increasedTime	16	static
+fsm_automatic.c:174:6:updateMode	4	static
+fsm_automatic.c:179:6:copyModtoRun	16	static
+fsm_automatic.c:186:6:blinkLed	16	static
+fsm_automatic.c:220:6:fsm_automatic	8	static
